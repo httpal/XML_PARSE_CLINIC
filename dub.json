@@ -1,0 +1,9 @@
+{
+	"name": "xml_parse",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, Sergey",
+	"authors": ["Sergey"],
+	"dependencies": {
+		"kxml": "~>1.0.1"
+	}
+}

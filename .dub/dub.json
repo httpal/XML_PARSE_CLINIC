@@ -1,0 +1,8 @@
+{
+	"dub": {
+		"cachedUpgrades": {
+			"kxml": "1.0.1"
+		},
+		"lastUpgrade": "2017-01-27T11:27:12.63094"
+	}
+}

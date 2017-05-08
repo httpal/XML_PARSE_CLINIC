@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"kxml": "1.0.1",
+		"gtk-d": "3.1.4"
+	}
+}
